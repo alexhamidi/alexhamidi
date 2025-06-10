@@ -4,7 +4,7 @@ live projects:
 - [graphit](https://github.com/alexhamidi/graphit): A cool graph editor, built without graph libraries
 - [forsite](https://tryforsite.com/): Search engine for projects
 
-not live
+not live:
 - [Fanstocks](https://github.com/alexhamidi/fanstocks): community-driven stock trading app that updates prices from trading activity + sentiment analyzed from integrated twitch channels, subreddits, etc
 - [Fiscal](https://github.com/alexhamidi/fiscal): Bank statement analytics powered by AI
 - [Literate](https://github.com/alexhamidi/literate): Convert PDFs into interactive book websites.
@@ -20,5 +20,5 @@ not live
 - [TritonTool](https://github.com/alexhamidi/TritonTool): Tool for searching for ucsd courses
 - [CppSorts](https://github.com/alexhamidi/CppSorts): Simple C++ definitions and implementations of 7 sorting algorithms on array primitives.
   
-random
+random:
 - [wikipics](https://github.com/alexhamidi/WikiPics): Wikipedia images i find cool
