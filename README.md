@@ -1,6 +1,6 @@
 live projects:
 - [personal site](https://github.com/alexhamidi/alexhamidi.github.io)
-- [AutoMCP](https://github.com/automcp-app/automcp): Automated MCP Server generation CLI package. Website code [here](https://github.com/automcp-app/automcp-frontend)
+- [AutoMCP](https://github.com/automcp-app/automcp): Automated MCP Server generation CLI package. [Website](https://automcp.app/) code [here](https://github.com/automcp-app/automcp-frontend)
 - [graphit](https://github.com/alexhamidi/graphit): A cool graph editor, built without graph libraries
 - [forsite](https://tryforsite.com/): Search engine for projects
 
