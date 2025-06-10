@@ -15,8 +15,6 @@ not live
 - [cp-slackbot](https://github.com/alexhamidi/cp-slackbot): Slack bot for getting competitive programming problems
 - [agent-orchestration](https://github.com/alexhamidi/agent-orchestration): 3 implementations of effective multi-agent systems in python
 - [copa](https://github.com/alexhamidi/copa): ML algo that predicts protein thiol oxidization based on physical parameters
-- [graphit](https://github.com/alexhamidi/graphit): A cool graph editor, built without graph libraries
-- [wikipics](https://github.com/alexhamidi/WikiPics): Wikipedia images i find cool
 - [PlayNext](https://github.com/alexhamidi/PlayNext): Spotify Recommendation with Neural Nets
 - [Spotibulk](https://github.com/alexhamidi/Spotibulk): Python script to populate a list spotify songs.
 - [TritonTool](https://github.com/alexhamidi/TritonTool): Tool for searching for ucsd courses
