@@ -1,10 +1,8 @@
 # Hi, I'm Alex
 
-**Featured**
 - 🔀 **sitescroll** [[code](https://github.com/alexhamidi/sitescroll)] [[live](https://roll.vercel.app)]: Doomscroll personal websites
 - 🦅 **hawkx** [[code](https://github.com/alexhamidi/hawkx)]: CLI that pulls tweets and bookmarks from twitter
 - 🎧 **Audify** [[code](https://github.com/alexhamidi/Audify)]: iOS app that converts books to audiobooks
-**Other**
 - 💻 **Umari** [[code](https://github.com/alexhamidi/umari)]: Fast web agent with Qwen and GPT-5
 - 🤖 **Antiwall** [[code](https://github.com/alexhamidi/antiwall)] [[live](https://antiwall.vercel.app)]: Reasoning agent with deductive reasoning and web search
 - 📝 **tribe** [[code](https://github.com/alexhamidi/tribe)]: Coding agent wrapper for long-running projects
